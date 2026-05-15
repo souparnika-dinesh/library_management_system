@@ -68,5 +68,5 @@ This project demonstrates:
 This project is licensed under the MIT License.
 
 ## Author
-Souparnika Dinesh
+**Souparnika Dinesh**
 Developed as a Python mini project for learning and practical implementation.
